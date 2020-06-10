@@ -1,0 +1,2 @@
+rootProject.name='Layout_Transition'
+include ':app'
